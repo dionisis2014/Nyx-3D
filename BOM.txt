@@ -8,5 +8,5 @@
 1x	Single side PCB cut to shape (cut a circle to ceperate positive and negative)
 2x	CW 200mm prop
 2x	CCW 200mm prop
-2x	M2 screws as needed
-?x	M3 screws as needed
+2x	M2 screws and nuts as needed
+?x	M3 screws and nuts as needed
